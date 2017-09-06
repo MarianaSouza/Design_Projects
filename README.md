@@ -4,6 +4,6 @@
 This poster was designed by applying typography concepts. 
 Dark blue colors mixed brushes were used to create an intimist look.
 
-![Project Image](https://github.com/MarianaSouza/MoviePoster_Photoshop/blob/master/movie_poster_revamped.PNG)
+![Project Image](https://github.com/MarianaSouza/JazzConcert_Poster_Photoshop/blob/master/jazzPoster.PNG)
 
 
