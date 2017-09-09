@@ -1,5 +1,8 @@
 # Design Projects
 
+
+
+
 In this folder, you will find some of my design projects.
 
 ## Jazz Concert
@@ -11,9 +14,10 @@ Dark blue colors mixed with brushes were used to create an intimate setting.
 ![Project Image](https://github.com/MarianaSouza/JazzConcert_Poster_Photoshop/blob/master/jazzPoster2.PNG)
 
 
+
 ## Vancouver Coders
 ### Minimalism
 
 This mockup was designed on www.canva.com
 
-![Project Image](https://github.com/MarianaSouza/JazzConcert_Poster_Photoshop/blob/master/jazzPoster2.PNG)
+![Project Image](https://github.com/MarianaSouza/Design_Projects/blob/master/Vancouver%20coders%20wireframe.png)
