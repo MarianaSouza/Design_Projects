@@ -3,7 +3,9 @@
 
 
 
-In this folder, you will find some of my design projects.
+
+
+In this folder, you will find some of my study projects of design.
 
 ## Jazz Concert
 ### Poster designed by using Photoshop.
@@ -12,6 +14,8 @@ This poster was designed by applying typography concepts.
 Dark blue colors mixed with brushes were used to create an intimate setting.
 
 ![Project Image](https://github.com/MarianaSouza/JazzConcert_Poster_Photoshop/blob/master/jazzPoster2.PNG)
+
+
 
 
 
