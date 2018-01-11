@@ -7,6 +7,15 @@
 
 In this folder, you will find some of my study projects of design.
 
+## Mariana Caldas Portfolio 
+### Wireframe
+
+This wireframe was designed on https://gomockingbird.com/home
+
+https://github.com/MarianaSouza/Design_Projects/blob/master/mariana_portfolio_mockup.png
+
+
+
 ## Jazz Concert
 ### Poster designed by using Photoshop.
 
@@ -20,7 +29,7 @@ Dark blue colors mixed with brushes were used to create an intimate setting.
 
 
 ## Vancouver Coders
-### Minimalism
+### Mockup
 
 This mockup was designed on www.canva.com
 
