@@ -12,7 +12,9 @@ In this folder, you will find some of my study projects of design.
 
 This wireframe was designed on https://gomockingbird.com/home
 
-https://github.com/MarianaSouza/Design_Projects/blob/master/mariana_portfolio_mockup.png
+![Project Image](https://github.com/MarianaSouza/Design_Projects/blob/master/mariana_portfolio_wireframe.png)
+
+
 
 
 
