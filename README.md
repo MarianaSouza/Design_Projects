@@ -1,5 +1,7 @@
 # Design Projects
-## In this folder, you will find some of my study projects of design.
+In this folder, you will find some of my study projects of design.
+
+_____________________________________________________________________________________________________________________________
 
 
 
