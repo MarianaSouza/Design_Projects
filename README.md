@@ -2,6 +2,7 @@
 In this folder, you will find some of my study projects of design.
 
 _____________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________
 
 
 
@@ -17,7 +18,7 @@ This wireframe was designed on https://gomockingbird.com/home
 ![Project Image](https://github.com/MarianaSouza/Design_Projects/blob/master/portfolio_wireframe.png)
 
 
-
+_____________________________________________________________________________________________________________________________
 
 
 
@@ -32,7 +33,7 @@ Dark blue colors mixed with brushes were used to create an intimate setting.
 
 
 
-
+_______________________________________________________________________________________________________________________________
 
 
 
