@@ -1,11 +1,8 @@
 # Design Projects
+## In this folder, you will find some of my study projects of design.
 
 
 
-
-
-
-In this folder, you will find some of my study projects of design.
 
 
 
@@ -15,7 +12,7 @@ In this folder, you will find some of my study projects of design.
 
 This wireframe was designed on https://gomockingbird.com/home
 
-![Project Image](https://github.com/MarianaSouza/Design_Projects/blob/master/mariana_portfolio_wireframe.png)
+![Project Image](https://github.com/MarianaSouza/Design_Projects/blob/master/portfolio_wireframe.png)
 
 
 
